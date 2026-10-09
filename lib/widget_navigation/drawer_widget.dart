@@ -31,11 +31,11 @@ class _DrawerWidgetState extends State<DrawerWidget> {
                   ),
                   decoration: BoxDecoration(color: Colors.grey[200]),
                   accountName: const Text(
-                    'Michael', //ketahuan kali sih kalo ga diganti dengan nama dan nim nya :)
+                    '42325018 - Yenti Sihotang',
                     style: TextStyle(color: Colors.black),
                   ),
                   accountEmail: const Text(
-                    'michael.dev@gmail.com', //TODO
+                    'yenti123sihotang@gmail.com', //TODO
                     style: TextStyle(color: Colors.black),
                   ),
                 ),
